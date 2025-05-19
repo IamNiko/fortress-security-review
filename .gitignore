@@ -1,0 +1,3 @@
+# Claves privadas RSA de prueba (NO subir jamás)
+extras/rsa_keys/*
+!extras/rsa_keys/*.pub
